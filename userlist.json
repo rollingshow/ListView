@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Иван Петров",
+    "sex": "MAN",
+    "phoneNumber": "1296712399"
+  },
+  {
+    "name": "Алина Филатова",
+    "sex": "WOMAN",
+    "phoneNumber": "123456789"
+  },
+  {
+    "name": "Кролик Котечкин",
+    "sex": "UNKNOWN",
+    "phoneNumber": "2192937"
+  },
+  {
+    "name": "Cандрия Ткач",
+    "sex": "WOMAN",
+    "phoneNumber": "89328473844"
+  },
+  {
+    "name": "Чарли Куликов",
+    "sex": "MAN",
+    "phoneNumber": "83452358"
+  },
+  {
+    "name": "Анна Архипова",
+    "sex": "WOMAN",
+    "phoneNumber": "8926371234"
+  },
+  {
+    "name": "Галина Иванова",
+    "sex": "WOMAN",
+    "phoneNumber": "812374234"
+  }
+]
